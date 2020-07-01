@@ -1,0 +1,17 @@
+
+.main__button{
+    color: $white;
+    background-color: $nickel;
+  
+  
+  &:hover{
+    color: $white;
+    background-color: $light-gray;
+  }
+  
+  &:focus{
+    border: 1px solid;
+    border-color: $light-gray;
+  
+  }
+  }

@@ -1,0 +1,39 @@
+.section__main {
+    text-align: left;
+    font-family: $roboto;
+    font-weight: $font-weight-light;
+    position: static;
+    
+}
+
+.section__info {
+    width: 80%;
+    position: relative;
+    left: 10%;  
+    padding-top: 5%; 
+}
+
+.section__title{
+    font-family: $playfair-display;
+    font-weight: $font-weight-normal;
+    font-size: $large;
+    color: $nickel;
+    padding-bottom: 5%;
+}
+
+.section__parrafo {
+    padding: 1%;
+    color: $nickel;
+}
+
+.section__share {
+    background-color: $nickel;
+    border-color: $nickel;
+    font-size: $medium;
+}
+
+.section__share-twitter {
+    background-color: $nickel;
+    border-color: $nickel;
+    font-size: $medium;
+}

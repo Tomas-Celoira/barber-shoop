@@ -1,0 +1,44 @@
+
+.footer__image {
+    width: 10%;
+    
+}
+
+.section__pages {
+    background-color: $light-gray;
+    display: flex;
+    justify-content: center;
+
+    .pagination {
+        margin-bottom: 0px;
+        padding: 20% 0%;
+    }
+}
+
+.section__personal {
+    position: static;
+    padding-top: 5%;
+    margin: 0%;
+    
+}
+
+.section__image {
+    border-radius: 50%;
+    width: 50%;
+
+}
+.section__naomi_title{
+    font-family: $playfair-display;
+    font-style: italic;
+}
+.section__naomi_subtitle{
+    font-family: $roboto;
+    color: $spanich-pink;
+    font-weight: 300;
+    font-size: $large;
+}
+.section__info_naomi {
+    width: 100%;
+    color: $raisin-black;
+}
+
